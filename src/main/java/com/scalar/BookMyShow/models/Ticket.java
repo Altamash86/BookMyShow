@@ -1,6 +1,7 @@
 package com.scalar.BookMyShow.models;
 
 import com.scalar.BookMyShow.models.constants.BaseModel;
+import com.scalar.BookMyShow.models.constants.TicketStatus;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
